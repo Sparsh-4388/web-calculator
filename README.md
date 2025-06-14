@@ -4,9 +4,9 @@ A simple web-based calculator built using Python and Flask.
 
 ## 🚀 Features
 
-- Perform basic arithmetic: Addition, Subtraction, Multiplication, Division
-- Clean and responsive interface using HTML & CSS
-- Python backend handles all calculations securely
+- Accepts full mathematical expressions like `5+2*3` or `(10+5)/3`
+- Clean and responsive UI using HTML/CSS
+- Python (Flask) backend evaluates expression and returns result
 
 ## 💻 Tech Stack
 
