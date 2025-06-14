@@ -19,3 +19,28 @@ A simple web-based calculator built using Python and Flask.
    ```bash
    git clone https://github.com/yourusername/flask-calculator.git
    cd flask-calculator
+2. Install Dependencies:
+   pip install flask
+
+3. Run the app
+   python app.py
+
+4. Open your Browser at https://(321.0.0.1:5000)  {or something similar}
+
+
+
+
+
+> This personal project demonstrates how a simple arithmetic calculator can be built using the Flask web framework. It features a minimalistic frontend form where users input two numbers and choose an operation (+, –, ×, ÷). The backend, built in Python using Flask, receives and processes this data, then renders the result using Jinja templating. The project showcases clean request handling, form validation, and dynamic HTML rendering — a foundational concept in full-stack development.
+
+---
+
+
+
+
+
+
+
+
+
+
